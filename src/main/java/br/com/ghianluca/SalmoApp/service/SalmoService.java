@@ -1,13 +1,14 @@
 package br.com.ghianluca.SalmoApp.service;
 
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
 import br.com.ghianluca.SalmoApp.model.Salmo;
 import br.com.ghianluca.SalmoApp.model.Versiculo;
 import br.com.ghianluca.SalmoApp.repository.SalmoRepository;
 import br.com.ghianluca.SalmoApp.repository.VersiculoRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-
-import java.util.List;
 
 @Service
 public class SalmoService {

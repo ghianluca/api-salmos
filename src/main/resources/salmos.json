@@ -324,23 +324,341 @@
                     "id": 1057,
                     "title": "Salmo 7:1",
                     "text": "Senhor, meu Deus, em ti me refugio; salva-me e livra-me de todos os que me perseguem,"
+                },
+                {
+                    "id": 1058,
+                    "title": "Salmo 7:2",
+                    "text": "para que, como leões, não me dilacerem nem me despedacem, sem que ninguém me livre."
+                },
+                {
+                    "id": 1059,
+                    "title": "Salmo 7:3",
+                    "text": "Senhor, meu Deus, se assim procedi, se nas minhas mãos há injustiça,"
+                },
+                {
+                    "id": 1060,
+                    "title": "Salmo 7:4",
+                    "text": "se fiz algum mal a um amigo ou se poupei sem motivo o meu adversário,"
+                },
+                {
+                    "id": 1061,
+                    "title": "Salmo 7:5",
+                    "text": "persiga-me o meu inimigo até me alcançar, no chão me pisoteie e aniquile a minha vida, lançando a minha honra no pó."
+                },
+                {
+                    "id": 1062,
+                    "title": "Salmo 7:6",
+                    "text": "Levanta-te, Senhor, na tua ira; ergue-te contra o furor dos meus adversários. Desperta-te, meu Deus! Ordena a justiça!"
+                },
+                {
+                    "id": 1063,
+                    "title": "Salmo 7:7",
+                    "text": "Reúnam-se os povos ao teu redor. Das alturas reina sobre eles."
+                },
+                {
+                    "id": 1064,
+                    "title": "Salmo 7:8",
+                    "text": "O Senhor é quem julga os povos. Julga-me, Senhor, conforme a minha justiça, conforme a minha integridade."
+                },
+                {
+                    "id": 1065,
+                    "title": "Salmo 7:9",
+                    "text": "Deus justo, que sondas a mente e o coração dos homens, dá fim à maldade dos ímpios e ao justo dá segurança."
+                },
+                {
+                    "id": 1066,
+                    "title": "Salmo 7:10",
+                    "text": "O meu escudo está nas mãos de Deus, que salva o reto de coração."
+                },
+                {
+                    "id": 1067,
+                    "title": "Salmo 7:11",
+                    "text": "Deus é um juiz justo, um Deus que manifesta cada dia o seu furor."
+                },
+                {
+                    "id": 1068,
+                    "title": "Salmo 7:12",
+                    "text": "Se o homem não se arrepende, Deus afia a sua espada, arma o seu arco e o aponta,"
+                },
+                {
+                    "id": 1069,
+                    "title": "Salmo 7:13",
+                    "text": "prepara as suas armas mortais e faz de suas setas flechas flamejantes."
+                },
+                {
+                    "id": 1070,
+                    "title": "Salmo 7:14",
+                    "text": "Quem gera a maldade concebe sofrimento e dá à luz a desilusão."
+                },
+                {
+                    "id": 1071,
+                    "title": "Salmo 7:15",
+                    "text": "Quem cava um buraco e o aprofunda cairá nessa armadilha que fez."
+                },
+                {
+                    "id": 1072,
+                    "title": "Salmo 7:16",
+                    "text": "Sua maldade se voltará contra ele; sua violência cairá sobre a sua própria cabeça."
+                },
+                {
+                    "id": 1073,
+                    "title": "Salmo 7:17",
+                    "text": "Darei graças ao Senhor por sua justiça; ao nome do Senhor Altíssimo cantarei louvores."
                 }
             ]
         },
         {
             "id": 8,
             "title": "Salmo 8",
-            "versiculos": []
+            "versiculos": [
+                {
+                    "id": 1074,
+                    "title": "Salmo 8:1",
+                    "text": "Senhor, Senhor nosso, como é majestoso o teu nome em toda a terra! Tu, cuja glória é cantada nos céus."
+                },
+                {
+                    "id": 1075,
+                    "title": "Salmo 8:2",
+                    "text": "Dos lábios das crianças e dos recém-nascidos firmaste o teu nome como fortaleza, por causa dos teus adversários, para silenciar o inimigo que busca vingança."
+                },
+                {
+                    "id": 1076,
+                    "title": "Salmo 8:3",
+                    "text": "Quando contemplo os teus céus, obra dos teus dedos, a lua e as estrelas que ali firmaste,"
+                },
+                {
+                    "id": 1077,
+                    "title": "Salmo 8:4",
+                    "text": "pergunto: Que é o homem, para que com ele te importes? E o filho do homem, para que com ele te preocupes?"
+                },
+                {
+                    "id": 1078,
+                    "title": "Salmo 8:5",
+                    "text": "Tu o fizeste um pouco menor do que os seres celestiais e o coroaste de glória e de honra."
+                },
+                {
+                    "id": 1079,
+                    "title": "Salmo 8:6",
+                    "text": "Tu o fizeste dominar as obras das tuas mãos; sob os seus pés tudo puseste:"
+                },
+                {
+                    "id": 1080,
+                    "title": "Salmo 8:7",
+                    "text": "todos os rebanhos e manadas, e até os animais selvagens,"
+                },
+                {
+                    "id": 1081,
+                    "title": "Salmo 8:8",
+                    "text": "as aves do céu, os peixes do mar e tudo o que percorre as veredas dos mares."
+                },
+                {
+                    "id": 1082,
+                    "title": "Salmo 8:9",
+                    "text": "Senhor, Senhor nosso, como é majestoso o teu nome em toda a terra!"
+                }
+            ]
         },
         {
             "id": 9,
             "title": "Salmo 9",
-            "versiculos": []
+            "versiculos": [
+                {
+                    "id": 1083,
+                    "title": "Salmo 9:1",
+                    "text": "Senhor, quero dar-te graças de todo o coração e falar de todas as tuas maravilhas."
+                },
+                {
+                    "id": 1084,
+                    "title": "Salmo 9:2",
+                    "text": "Em ti quero alegrar-me e exultar, e cantar louvores ao teu nome, ó Altíssimo."
+                },
+                {
+                    "id": 1085,
+                    "title": "Salmo 9:3",
+                    "text": "Quando os meus inimigos contigo se defrontam, tropeçam e são destruídos."
+                },
+                {
+                    "id": 1086,
+                    "title": "Salmo 9:4",
+                    "text": "Pois defendeste o meu direito e a minha causa; em teu trono te assentaste, julgando com justiça."
+                },
+                {
+                    "id": 1087,
+                    "title": "Salmo 9:5",
+                    "text": "Repreendeste as nações e destruíste os ímpios; para todo o sempre apagaste o nome deles."
+                },
+                {
+                    "id": 1088,
+                    "title": "Salmo 9:6",
+                    "text": "O inimigo foi totalmente arrasado, para sempre; desarraigaste as suas cidades; já não há quem delas se lembre."
+                },
+                {
+                    "id": 1089,
+                    "title": "Salmo 9:7",
+                    "text": "O Senhor reina para sempre; estabeleceu o seu trono para julgar."
+                },
+                {
+                    "id": 1090,
+                    "title": "Salmo 9:8",
+                    "text": "Ele mesmo julga o mundo com justiça; governa os povos com retidão."
+                },
+                {
+                    "id": 1091,
+                    "title": "Salmo 9:9",
+                    "text": "O Senhor é refúgio para os oprimidos, uma torre segura na hora da adversidade."
+                },
+                {
+                    "id": 1092,
+                    "title": "Salmo 9:10",
+                    "text": "Os que conhecem o teu nome confiam em ti, pois tu, Senhor, jamais abandonas os que te buscam."
+                },
+                {
+                    "id": 1093,
+                    "title": "Salmo 9:11",
+                    "text": "Cantem louvores ao Senhor, que reina em Sião; proclamem entre as nações os seus feitos."
+                },
+                {
+                    "id": 1094,
+                    "title": "Salmo 9:12",
+                    "text": "Aquele que pede contas do sangue derramado não esquece; ele não ignora o clamor dos oprimidos."
+                },
+                {
+                    "id": 1095,
+                    "title": "Salmo 9:13",
+                    "text": "Misericórdia, Senhor! Vê o sofrimento que me causam os que me odeiam. Salva-me das portas da morte,"
+                },
+                {
+                    "id": 1096,
+                    "title": "Salmo 9:14",
+                    "text": "para que, junto às portas da cidade de Sião, eu cante louvores a ti e ali exulte em tua salvação."
+                },
+                {
+                    "id": 1097,
+                    "title": "Salmo 9:15",
+                    "text": "Caíram as nações na cova que abriram; os seus pés ficaram presos no laço que esconderam."
+                },
+                {
+                    "id": 1098,
+                    "title": "Salmo 9:16",
+                    "text": "O Senhor é conhecido pela justiça que executa; os ímpios caem em suas próprias armadilhas. Interlúdio."
+                },
+                {
+                    "id": 1099,
+                    "title": "Salmo 9:17",
+                    "text": "Voltem os ímpios ao pó, todas as nações que se esquecem de Deus!"
+                },
+                {
+                    "id": 1100,
+                    "title": "Salmo 9:18",
+                    "text": "Mas os pobres nunca serão esquecidos, nem se frustrará a esperança dos necessitados."
+                },
+                {
+                    "id": 1101,
+                    "title": "Salmo 9:19",
+                    "text": "Levanta-te, Senhor! Não permitas que o mortal triunfe! Julgadas sejam as nações na tua presença."
+                },
+                {
+                    "id": 1102,
+                    "title": "Salmo 9:20",
+                    "text": "Infunde-lhes terror, Senhor; saibam as nações que não passam de seres humanos."
+                }
+            ]
         },
         {
             "id": 10,
             "title": "Salmo 10",
-            "versiculos": []
+            "versiculos": [
+                {
+                    "id": 1103,
+                    "title": "Salmo 10:1",
+                    "text": "Senhor, por que estás tão longe? Por que te escondes em tempos de angústia?"
+                },
+                {
+                    "id": 1104,
+                    "title": "Salmo 10:2",
+                    "text": "Em sua arrogância o ímpio persegue o pobre, que é apanhado em suas tramas."
+                },
+                {
+                    "id": 1105,
+                    "title": "Salmo 10:3",
+                    "text": "Ele se gaba de sua própria cobiça e, em sua ganância, amaldiçoa e insulta o Senhor."
+                },
+                {
+                    "id": 1106,
+                    "title": "Salmo 10:4",
+                    "text": "Em sua presunção o ímpio não o busca; não há lugar para Deus em nenhum dos seus planos."
+                },
+                {
+                    "id": 1107,
+                    "title": "Salmo 10:5",
+                    "text": "Os seus caminhos prosperam sempre; tão acima da sua compreensão estão as tuas leis que ele faz pouco caso de todos os seus adversários,"
+                },
+                {
+                    "id": 1108,
+                    "title": "Salmo 10:6",
+                    "text": "pensando consigo mesmo: 'Nada me abalará! Desgraça alguma me atingirá, nem a mim nem aos meus descendentes'."
+                },
+                {
+                    "id": 1109,
+                    "title": "Salmo 10:7",
+                    "text": "Sua boca está cheia de maldições, mentiras e ameaças; violência e maldade estão em sua língua."
+                },
+                {
+                    "id": 1110,
+                    "title": "Salmo 10:8",
+                    "text": "Fica à espreita perto dos povoados; em emboscadas mata os inocentes, procurando às escondidas as suas vítimas."
+                },
+                {
+                    "id": 1111,
+                    "title": "Salmo 10:9",
+                    "text": "Fica à espreita como o leão escondido; fica à espreita para apanhar o necessitado; apanha o necessitado e o arrasta para a sua rede."
+                },
+                {
+                    "id": 1112,
+                    "title": "Salmo 10:10",
+                    "text": "Agachado, fica de tocaia; as suas vítimas caem em seu poder."
+                },
+                {
+                    "id": 1113,
+                    "title": "Salmo 10:11",
+                    "text": "Pensa consigo mesmo: 'Deus se esqueceu; escondeu o rosto e nunca verá isto'."
+                },
+                {
+                    "id": 1114,
+                    "title": "Salmo 10:12",
+                    "text": "Levanta-te, Senhor! Ergue a tua mão, ó Deus! Não te esqueças dos necessitados."
+                },
+                {
+                    "id": 1115,
+                    "title": "Salmo 10:13",
+                    "text": "Por que o ímpio insulta a Deus, dizendo no seu íntimo: 'De nada me pedirás contas!'?"
+                },
+                {
+                    "id": 1116,
+                    "title": "Salmo 10:14",
+                    "text": "Mas tu enxergas o sofrimento e a dor; observa-os para tomá-los em tuas mãos. A vítima deles entrega-se a ti; tu és o protetor do órfão."
+                },
+                {
+                    "id": 1117,
+                    "title": "Salmo 10:15",
+                    "text": "Quebra o braço do ímpio e do perverso, pede contas de sua impiedade até que dela nada mais se ache."
+                },
+                {
+                    "id": 1118,
+                    "title": "Salmo 10:16",
+                    "text": "O Senhor é rei para todo o sempre; da sua terra desapareceram os outros povos."
+                },
+                {
+                    "id": 1119,
+                    "title": "Salmo 10:17",
+                    "text": "Tu, Senhor, ouves a súplica dos necessitados; tu os reanimas e atendes ao seu clamor."
+                },
+                {
+                    "id": 1120,
+                    "title": "Salmo 10:18",
+                    "text": "Defendes o órfão e o oprimido, a fim de que o homem, que é pó, já não cause terror."
+                }
+            ]
         },
         {
             "id": 11,

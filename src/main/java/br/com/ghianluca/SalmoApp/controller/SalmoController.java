@@ -3,27 +3,28 @@ package br.com.ghianluca.SalmoApp.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.server.ResponseStatusException;
 
 import br.com.ghianluca.SalmoApp.model.Salmo;
 import br.com.ghianluca.SalmoApp.model.Versiculo;
-import br.com.ghianluca.SalmoApp.service.SalmoService;
 import br.com.ghianluca.SalmoApp.service.SalmoImportRequest;
+import br.com.ghianluca.SalmoApp.service.SalmoService;
+import br.com.ghianluca.SalmoApp.service.VersiculoDiarioService;
 
-@SuppressWarnings("unused")
 @RestController
 @RequestMapping("/salmos")
 public class SalmoController {
-    
+
     @Autowired
     private SalmoService salmoService;
+
+    @Autowired
+    private VersiculoDiarioService versiculoDiarioService;
 
     @GetMapping
     public List<Salmo> getAllSalmos() {
@@ -38,6 +39,12 @@ public class SalmoController {
     @GetMapping("/versiculos/{versiculoId}")
     public Versiculo getVersiculoById(@PathVariable Integer versiculoId) {
         return salmoService.getVersiculoById(versiculoId);
+    }
+
+    @GetMapping("/versiculo-diario")
+    public Versiculo getVersiculoDiario() {
+        int idAtual = versiculoDiarioService.getVersiculoDiario();
+        return salmoService.getVersiculoById(idAtual);
     }
 
     @PostMapping("/importar")
